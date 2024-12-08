@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Ruby where developers mistakenly think a getter method automatically doubles as a setter.  The `bug.rb` file showcases this issue, while `bugSolution.rb` provides the correct way to handle both getter and setter functionality.
